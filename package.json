@@ -17,7 +17,7 @@
     "gatsby-plugin-styled-components": "^3.1.19",
     "gatsby-source-filesystem": "^2.1.48",
     "gatsby-source-strava": "^2.0.0-beta.6",
-    "gatsby-transformer-remark": "^2.6.51",
+    "gatsby-transformer-remark": "^5.25.1",
     "i18next": "^12.1.0",
     "i18next-browser-languagedetector": "^2.2.4",
     "i18next-sync-fs-backend": "^1.1.0",
